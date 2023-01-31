@@ -60,9 +60,25 @@ html, body {
     align-items: center;
 }
 .gallery{
-    background-color:#f8d7da;
+    background-color:whitesmoke;
 }
 .gallery img{
     border-radius: 5%;
 
+}
+.services{
+    color: #FFF;
+}
+.contact {
+    background-color: whitesmoke;
+}
+footer {
+    color: #fff;
+    font-size: 1.25rem;
+    margin:0;
+    padding: 1rem;
+}
+a{
+    color: red;
+    text-decoration: none;
 }
